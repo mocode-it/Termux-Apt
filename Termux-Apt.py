@@ -49,11 +49,11 @@ time.sleep(3)
 
 #//////////////////////
 
-webbrowser.open('https://youtube.com/channel/UCV0zLo2Nkb8sNcjCuoEYJ6w')
+webbrowser.open('https://t.me/mo_code')
 
 os.system('clear')
 
-os.system('xdg-open https://youtube.com/channel/UCV0zLo2Nkb8sNcjCuoEYJ6w')
+os.system('xdg-open https://t.me/mo_code')
 
 print('''
 
